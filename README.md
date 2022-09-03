@@ -38,14 +38,14 @@ The final stage is tinkering. Tinkering comprises 90% of your time. This is wher
 
 Details about every stage
 **Stage 1: Intelligence**
-1. **Performance Metrics** : How you want to evaluate your product, In our case, 
+1. **Performance Metrics** : What are the target intelligence performance metrics that we want to implement with AI. How you want to evaluate your product. In our case, 
  * detecting the pose accurately - mainly the POse estimation model should be accuarate
  * The AI Yoga trainer should be able to compare the pose with the ideal/ best pose and make accurate comments
  * The time lag of comments should be very minimal to get a trainer feeling
  * Many more might come along the way of design
 
 
-2. **Scope** : 
+2. **Scope** : What is the scope of this superior behaviour we want to implement
  Scope of the behaviour
  the yoga trainer is dedicated for only one person
  comback later here!
