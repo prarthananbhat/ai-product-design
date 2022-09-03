@@ -1,16 +1,19 @@
 # ai-product-design
 
-The four stages of the AI Product Design
+## Introduction to the Artificial Intelligence Design Process
 
-Stage I 
-Identify a behaviour that AI can do - Intelligence
+The four stages of the AI Product Design are below
+
+**Stage I : 
+Identify a behaviour that AI can do - *Intelligence***
 
 To identify a behavior that an AI system could enact, first determine a broad taxonomy with what is possible. Next, come up with examples. To come up with examples, consider the following questions:
 What can humans do? (e.g., a yoga trainer can correct your posture)
 What are some similar AI examples? (e.g., Posenet gives us a total of 17 key points which we can use, right from our eye to and ears to knees and ankles. This can be used to identify the posture)
 
-Stage III 
-Define a Business process that incorporates this behaviour - Business Process
+**Stage II : 
+Define a Business process that incorporates this behaviour - *Business Process***
+
 Now that you have a behavior, you need to define a business process that incorporates this behavior. Defining a business process includes 90% of your value.
 
 In this stage, you begin to develop the AI approach. In developing an AI approach, you need:
@@ -18,8 +21,9 @@ In this stage, you begin to develop the AI approach. In developing an AI approac
 2.    An architecture
 3.    An objective
 
-Stage III 
-3. Develop an AI Approach - AI Technology
+**Stage III : 
+Develop an AI Approach - *AI Technology***
+
 These technologies combine to create an architecture to accomplish the AI’s objective of implementation. 
 However, for this implementation to occur, the AI must undergo training. There are three types of AI training:
 1.    Supervised learning
@@ -28,20 +32,20 @@ However, for this implementation to occur, the AI must undergo training. There a
 In our example
 We can use Pose net is a supervised model 
 
-4. Create it - Tinkering
+**Stage IV : 
+Create it - *Tinkering***
 The final stage is tinkering. Tinkering comprises 90% of your time. This is where most AI engineers do their work. Tinkering denotes the day-to-day actions of working with AI technologies. Stage 4 completes the development cycle.
 
 Details about every stage
-Stage 1
-1. Performance Metrics : How you want to evaluate your product
-In our case, 
-1. detecting the pose accurately - mainly the POse estimation model should be accuarate
-2. The AI Yoga trainer should be able to compare the pose with the ideal/ best pose and make accurate comments
-3. The time lag of comments should be very minimal to get a trainer feeling
-4. Many more might come along the way of design
+**Stage 1: Intelligence**
+1. **Performance Metrics** : How you want to evaluate your product, In our case, 
+ * detecting the pose accurately - mainly the POse estimation model should be accuarate
+ * The AI Yoga trainer should be able to compare the pose with the ideal/ best pose and make accurate comments
+ * The time lag of comments should be very minimal to get a trainer feeling
+ * Many more might come along the way of design
 
 
-2. Scope
+2. **Scope** : 
  Scope of the behaviour
  the yoga trainer is dedicated for only one person
  comback later here!
