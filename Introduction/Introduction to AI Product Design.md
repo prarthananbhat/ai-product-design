@@ -50,5 +50,10 @@ Details about every stage
  the yoga trainer is dedicated for only one person
  comback later here!
  
+**Stage 2: Business Process**
+* Identifying the business process
+* Strategic: Best product player
+* 
+* 
  
 
