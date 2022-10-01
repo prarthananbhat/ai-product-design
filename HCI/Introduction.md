@@ -25,3 +25,8 @@ Areas of HCI
 whenever users interact with a piece of hardware, such as a new smart phone or augmented reality headset, somebody had  to develop the piece of hardware first.
 2. Interaction techniques and modalities: So, once the hardware is there, HCI developers still have to define how a user should interact with the device. How should the user be able to provide input to the device, and how should the device respond? 
 3. Specific application areas: The third area of HCI research is the development of applications for specific use cases and areas. So, HCI developers have to create applications for these specific use cases and user groups.
+
+
+Benefits and Drawbacks of AI in HCI
+1. A failure to execute what the use actually wanted
+2. executing a wrong command can lead to worse results
