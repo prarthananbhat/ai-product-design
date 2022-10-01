@@ -1,5 +1,7 @@
 ## Designing 🤖 Intelligent Human–Computer Interfaces  
 
+
+🎯 Objective
 * Assess the spectrum of applications and processes that incorporate HCI interfaces
 * Evaluate the three areas of HCI
 * Assess the benefits and drawbacks of HCI
@@ -11,9 +13,11 @@
 * Design a human–computer interface that incorporates AI technologies and solves a problem or improves a process
 
 #### Human—Computer Interaction
-Human-computer interaction or short HCI focuses on the interaction between humans and computers. HCI is not only about interaction with traditional computers, but also with all sorts of other technology, for example, augmented reality, variable devices and 3D printing technology.
 
 What is HCI?
+
+Human-computer interaction or short HCI focuses on the interaction between humans and computers. HCI is not only about interaction with traditional computers, but also with all sorts of other technology, for example, augmented reality, variable devices and 3D printing technology.
+
 More specifically, human-computer interaction (HCI) is a multidisciplinary field of study that looks at computer technology design and human-computer interaction, covering all forms of information technology design.
 
 HCI is a field based on computer technology and design, where researchers try to look at the way humans interact with computers in order to design technologies that allow them to interact in a more human and novel way.
@@ -46,15 +50,15 @@ An example of the next frontier of HCI and AI, which is probably a little closer
 
 
 Finding HCI Research
-CHI conference : https://dl.acm.org/conference/chi
-User Interface Software and Technology Symposium,https://uist.acm.org/uist2022/
-Library of papers at UIST : https://uist.acm.org/uist2020/gallery.html?filter=titles
-Intelligent User Interfaces: https://iui.acm.org/2021/
+* CHI conference : https://dl.acm.org/conference/chi
+* User Interface Software and Technology Symposium,https://uist.acm.org/uist2022/
+* Library of papers at UIST : https://uist.acm.org/uist2020/gallery.html?filter=titles
+* Intelligent User Interfaces: https://iui.acm.org/2021/
 
 Best conferences in Computer Science: https://research.com/conference-rankings/computer-science
 
 Image from here
-https://student.emeritus.org/courses/6511/files/3564439?wrap=
+
 
 IBM Text analyser:https://www.ibm.com/demos/live/natural-language-understanding/self-service/home
 
