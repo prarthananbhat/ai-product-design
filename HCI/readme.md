@@ -56,8 +56,7 @@ Finding HCI Research
 * Intelligent User Interfaces: https://iui.acm.org/2021/
 
 Best conferences in Computer Science: https://research.com/conference-rankings/computer-science
-
-Image from here
+![conf_list](https://github.com/prarthananbhat/ai-product-design/main/Images/conf_list.png)
 
 
 IBM Text analyser:https://www.ibm.com/demos/live/natural-language-understanding/self-service/home
