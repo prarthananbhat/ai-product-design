@@ -9,3 +9,6 @@
 * Evaluate a real-world application that incorporates the integration of HCI and Artificial Intelligence predictions to make better user interfaces
 * Assess the integration of human–computer interaction elements and AI processes into products and processes
 * Design a human–computer interface that incorporates AI technologies and solves a problem or improves a process
+
+#### Human—Computer Interaction
+Human-computer interaction or short HCI focuses on the interaction between humans and computers. HCI is not only about interaction with traditional computers, but also with all sorts of other technology, for example, augmented reality, variable devices and 3D printing technology.
