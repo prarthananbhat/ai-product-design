@@ -1,4 +1,4 @@
-## Designing Intelligent Human–Computer Interfaces
+## Designing 🤖 Intelligent Human–Computer Interfaces  
 
 * Assess the spectrum of applications and processes that incorporate HCI interfaces
 * Evaluate the three areas of HCI
