@@ -30,3 +30,7 @@ whenever users interact with a piece of hardware, such as a new smart phone or a
 Benefits and Drawbacks of AI in HCI
 1. A failure to execute what the use actually wanted
 2. executing a wrong command can lead to worse results
+
+So, there are two problems with the AI does not work appropriately. First, there's a failure to execute what the user 
+actually  wanted,  executing,  potentially,  a  wrong  command,  and  then,  leading  to  worse  results  than  just 
+acknowledging, as the AI, to say like, I actually did not really understand the user's intentions. 
