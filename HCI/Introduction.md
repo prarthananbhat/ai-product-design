@@ -34,3 +34,27 @@ Benefits and Drawbacks of AI in HCI
 So, there are two problems with the AI does not work appropriately. First, there's a failure to execute what the user 
 actually  wanted,  executing,  potentially,  a  wrong  command,  and  then,  leading  to  worse  results  than  just 
 acknowledging, as the AI, to say like, I actually did not really understand the user's intentions. 
+
+So, there's often no option of should we use AI or not, but we should make smart design decisions on how to 
+integrate it. We need machine learning, and we need the artificial intelligence to automate some of the processing 
+for us. So, there's a whole, big area of research on how to create something that's called fail-safe AI, but that's a 
+whole other topic for another video sometime.
+
+Frontier of HCI and AI
+Human computer interaction researchers have investigated how to use “computer-controlled muscle stimulation” to use it to control your body.
+An example of the next frontier of HCI and AI, which is probably a little closer in the future, are self-driving cars.
+
+
+Finding HCI Research
+CHI conference : https://dl.acm.org/conference/chi
+User Interface Software and Technology Symposium,https://uist.acm.org/uist2022/
+Library of papers at UIST : https://uist.acm.org/uist2020/gallery.html?filter=titles
+Intelligent User Interfaces: 
+
+Best conferences in Computer Science: https://research.com/conference-rankings/computer-science
+
+Image from here
+https://student.emeritus.org/courses/6511/files/3564439?wrap=
+
+
+
