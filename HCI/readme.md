@@ -14,7 +14,7 @@
 
 #### Human—Computer Interaction
 
-What is HCI?
+**What is HCI?**
 
 Human-computer interaction or short HCI focuses on the interaction between humans and computers. HCI is not only about interaction with traditional computers, but also with all sorts of other technology, for example, augmented reality, variable devices and 3D printing technology.
 
@@ -24,14 +24,14 @@ HCI is a field based on computer technology and design, where researchers try to
 
 Today, this field lies between computer science, behavioural science, design and media studies. The term tries to convey that computers and computational devices have many uses and always involve an open dialogue between user and computer, which is to be compared to the interaction between humans, a very important analogy for theoretical and future considerations in this science.
 
-Areas of HCI
+#### Areas of HCI
 1. Building new devices and Hardware: So, 
 whenever users interact with a piece of hardware, such as a new smart phone or augmented reality headset, somebody had  to develop the piece of hardware first.
 2. Interaction techniques and modalities: So, once the hardware is there, HCI developers still have to define how a user should interact with the device. How should the user be able to provide input to the device, and how should the device respond? 
 3. Specific application areas: The third area of HCI research is the development of applications for specific use cases and areas. So, HCI developers have to create applications for these specific use cases and user groups.
 
 
-Benefits and Drawbacks of AI in HCI
+#### Benefits and Drawbacks of AI in HCI
 1. A failure to execute what the use actually wanted
 2. executing a wrong command can lead to worse results
 
@@ -44,12 +44,12 @@ integrate it. We need machine learning, and we need the artificial intelligence 
 for us. So, there's a whole, big area of research on how to create something that's called fail-safe AI, but that's a 
 whole other topic for another video sometime.
 
-Frontier of HCI and AI
+#### Frontier of HCI and AI
 Human computer interaction researchers have investigated how to use “computer-controlled muscle stimulation” to use it to control your body.
 An example of the next frontier of HCI and AI, which is probably a little closer in the future, are self-driving cars.
 
 
-Finding HCI Research
+#### Finding HCI Research
 * CHI conference : https://dl.acm.org/conference/chi
 * User Interface Software and Technology Symposium,https://uist.acm.org/uist2022/
 * Library of papers at UIST : https://uist.acm.org/uist2020/gallery.html?filter=titles
