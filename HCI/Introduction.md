@@ -49,12 +49,12 @@ Finding HCI Research
 CHI conference : https://dl.acm.org/conference/chi
 User Interface Software and Technology Symposium,https://uist.acm.org/uist2022/
 Library of papers at UIST : https://uist.acm.org/uist2020/gallery.html?filter=titles
-Intelligent User Interfaces: 
+Intelligent User Interfaces: https://iui.acm.org/2021/
 
 Best conferences in Computer Science: https://research.com/conference-rankings/computer-science
 
 Image from here
 https://student.emeritus.org/courses/6511/files/3564439?wrap=
 
-
+IBM Text analyser:https://www.ibm.com/demos/live/natural-language-understanding/self-service/home
 
